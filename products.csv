@@ -1,0 +1,6 @@
+product_id,name,category,price,stock,supplier_email
+1,Product A,Category 1,$10.99,15,example@supplier.com
+2,Product B,Category 2, $5.49, ,Supplier@company.com
+3,Product C,Category 3, 8.99 ,10,supplier@example.com
+2,Product B,Category 2,  $5.49 ,20,duplicate@company.com
+4,Product D,Category 4,$15.99,not available,supplier@domain.com
